@@ -1,0 +1,67 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "yuexi.chen@gmail.com",
+    "longName": "SunMoonSpace",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/icon.png",
+                "menuIcon": true,
+                "name": "ICON",
+                "type": "png"
+            },
+            {
+                "file": "images/earth01.png",
+                "name": "E01",
+                "type": "png"
+            },
+            {
+                "file": "images/moon01.png",
+                "name": "M01",
+                "type": "png"
+            },
+            {
+                "file": "images/moon02.png",
+                "name": "M02",
+                "type": "png"
+            },
+            {
+                "file": "images/moon03.png",
+                "name": "M03",
+                "type": "png"
+            },
+            {
+                "file": "images/moon04.png",
+                "name": "M04",
+                "type": "png"
+            },
+            {
+                "file": "images/moon05.png",
+                "name": "M05",
+                "type": "png"
+            },
+            {
+                "file": "images/sun01.png",
+                "name": "S01",
+                "type": "png"
+            },
+            {
+                "file": "images/sun02.png",
+                "name": "S02",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "SunMoon",
+    "uuid": "532aba2e-a730-4dd0-bc5d-db5b1f1e4892",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
